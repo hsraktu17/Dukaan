@@ -9,11 +9,11 @@ import { IoColorPaletteOutline, IoHomeOutline } from "react-icons/io5";
 import { PiNotepadBold } from "react-icons/pi";
 import { RiDiscountPercentLine } from "react-icons/ri";
 import { TbBrandGoogleAnalytics } from "react-icons/tb";
-import { CgVercel } from "react-icons/cg";
+
 import { BiWallet } from "react-icons/bi";
 import { MdKeyboardArrowDown } from "react-icons/md";
 
-import next from '@/public/next.svg'
+
 import Image from "next/image";
 import op from '@/public/op.jpg'
 
